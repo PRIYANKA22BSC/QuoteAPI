@@ -1,0 +1,1022 @@
+[
+  {
+    "QuoteId": 1,
+    "quoteTitle": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "quoteTitleHindi": "अतीत में मत रहो, भविष्य के सपने मत देखो, अपने मन को वर्तमान क्षण पर केंद्रित करो।",
+    "author": "Buddha",
+    "category": "mindfulness",
+    "quoteOrigin": "Sarnath, India",
+    "tags": "mindfulness, present",
+    "createdAt": "5 May 560 BC"
+  },
+  {
+    "QuoteId": 2,
+    "quoteTitle": "Be the change that you wish to see in the world.",
+    "quoteTitleHindi": "वह बदलाव बनो जो तुम दुनिया में देखना चाहते हो।",
+    "author": "Mahatma Gandhi",
+    "category": "inspiration",
+    "quoteOrigin": "Porbandar, India",
+    "tags": "change, world, inspiration",
+    "createdAt": "15 August 1947"
+  },
+  {
+    "QuoteId": 3,
+    "quoteTitle": "Arise, awake, and stop not till the goal is reached.",
+    "quoteTitleHindi": "उठो, जागो, और तब तक मत रुको जब तक लक्ष्य प्राप्त न हो जाए।",
+    "author": "Swami Vivekananda",
+    "category": "motivation",
+    "quoteOrigin": "Kolkata, India",
+    "tags": "goal, persistence, motivation",
+    "createdAt": "11 September 1893"
+  },
+  {
+    "QuoteId": 4,
+    "quoteTitle": "You cannot shake hands with a clenched fist.",
+    "quoteTitleHindi": "आप मुट्ठी बंद करके हाथ नहीं मिला सकते।",
+    "author": "Indira Gandhi",
+    "category": "peace",
+    "quoteOrigin": "New Delhi, India",
+    "tags": "peace, cooperation",
+    "createdAt": "15 August 1966"
+  },
+  {
+    "QuoteId": 5,
+    "quoteTitle": "The highest education is that which does not merely give us information but makes our life in harmony with all existence.",
+    "quoteTitleHindi": "सबसे उच्च शिक्षा वह है जो केवल जानकारी नहीं देती, बल्कि हमारे जीवन को समस्त अस्तित्व के साथ सामंजस्य में लाती है।",
+    "author": "Rabindranath Tagore",
+    "category": "education",
+    "quoteOrigin": "Shantiniketan, India",
+    "tags": "education, harmony, existence",
+    "createdAt": "7 May 1913"
+  },
+  {
+    "QuoteId": 6,
+    "quoteTitle": "In a gentle way, you can shake the world.",
+    "quoteTitleHindi": "नरम तरीके से, आप दुनिया को हिला सकते हैं।",
+    "author": "Mahatma Gandhi",
+    "category": "change",
+    "quoteOrigin": "Sabarmati, India",
+    "tags": "change, peace",
+    "createdAt": "1920"
+  },
+  {
+    "QuoteId": 7,
+    "quoteTitle": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "quoteTitleHindi": "शक्ति शारीरिक क्षमता से नहीं आती, यह अडिग इच्छा से आती है।",
+    "author": "Mahatma Gandhi",
+    "category": "strength",
+    "quoteOrigin": "India",
+    "tags": "strength, will",
+    "createdAt": "1915"
+  },
+  {
+    "QuoteId": 8,
+    "quoteTitle": "Truth can be stated in a thousand different ways, yet each one can be true.",
+    "quoteTitleHindi": "सत्य को हजारों अलग-अलग तरीकों से कहा जा सकता है, फिर भी प्रत्येक सत्य हो सकता है।",
+    "author": "Swami Vivekananda",
+    "category": "truth",
+    "quoteOrigin": "Kolkata, India",
+    "tags": "truth, perspective",
+    "createdAt": "1893"
+  },
+  {
+    "QuoteId": 9,
+    "quoteTitle": "Where the mind is without fear and the head is held high.",
+    "quoteTitleHindi": "जहां मन भय से मुक्त हो और सिर ऊंचा हो।",
+    "author": "Rabindranath Tagore",
+    "category": "freedom",
+    "quoteOrigin": "India",
+    "tags": "freedom, fearlessness",
+    "createdAt": "1912"
+  },
+  {
+    "QuoteId": 10,
+    "quoteTitle": "It is health that is real wealth and not pieces of gold and silver.",
+    "quoteTitleHindi": "स्वास्थ्य ही असली धन है, न कि सोने और चांदी के टुकड़े।",
+    "author": "Mahatma Gandhi",
+    "category": "health",
+    "quoteOrigin": "India",
+    "tags": "health, wealth",
+    "createdAt": "1925"
+  },
+  {
+    "QuoteId": 11,
+    "quoteTitle": "The more we come out and do good to others, the more our hearts will be purified.",
+    "quoteTitleHindi": "जितना हम बाहर निकलेंगे और दूसरों के लिए अच्छा करेंगे, उतना ही हमारे दिल शुद्ध होंगे।",
+    "author": "Swami Vivekananda",
+    "category": "service",
+    "quoteOrigin": "India",
+    "tags": "service, kindness, purity",
+    "createdAt": "1897"
+  },
+  {
+    "QuoteId": 12,
+    "quoteTitle": "A man is but the product of his thoughts. What he thinks, he becomes.",
+    "quoteTitleHindi": "मनुष्य अपने विचारों का उत्पाद है। जो वह सोचता है, वही बनता है।",
+    "author": "Mahatma Gandhi",
+    "category": "thoughts",
+    "quoteOrigin": "India",
+    "tags": "thoughts, mind",
+    "createdAt": "1921"
+  },
+  {
+    "QuoteId": 13,
+    "quoteTitle": "Let my country awake.",
+    "quoteTitleHindi": "मेरे देश को जागने दो।",
+    "author": "Rabindranath Tagore",
+    "category": "patriotism",
+    "quoteOrigin": "India",
+    "tags": "patriotism, awakening",
+    "createdAt": "1912"
+  },
+  {
+    "QuoteId": 14,
+    "quoteTitle": "Education is the manifestation of the perfection already in man.",
+    "quoteTitleHindi": "शिक्षा मनुष्य में पहले से विद्यमान पूर्णता की अभिव्यक्ति है।",
+    "author": "Swami Vivekananda",
+    "category": "education",
+    "quoteOrigin": "India",
+    "tags": "education, perfection",
+    "createdAt": "1893"
+  },
+  {
+    "QuoteId": 15,
+    "quoteTitle": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "quoteTitleHindi": "ऐसे जियो जैसे कल मरने वाले हो, और ऐसे सीखो जैसे हमेशा जीने वाले हो।",
+    "author": "Mahatma Gandhi",
+    "category": "life",
+    "quoteOrigin": "India",
+    "tags": "life, learning",
+    "createdAt": "1920"
+  },
+  {
+    "QuoteId": 16,
+    "quoteTitle": "Faith is not something to grasp, it is a state to grow into.",
+    "quoteTitleHindi": "आस्था कोई पकड़ने वाली चीज़ नहीं है, यह बढ़ने वाली अवस्था है।",
+    "author": "Mahatma Gandhi",
+    "category": "faith",
+    "quoteOrigin": "India",
+    "tags": "faith, growth",
+    "createdAt": "1930"
+  },
+  {
+    "QuoteId": 17,
+    "quoteTitle": "All power is within you; you can do anything and everything.",
+    "quoteTitleHindi": "सारी शक्ति तुम्हारे भीतर है; तुम कुछ भी और सब कुछ कर सकते हो।",
+    "author": "Swami Vivekananda",
+    "category": "self-empowerment",
+    "quoteOrigin": "India",
+    "tags": "power, self-belief",
+    "createdAt": "1893"
+  },
+  {
+    "QuoteId": 18,
+    "quoteTitle": "Service which is rendered without joy helps neither the servant nor the served.",
+    "quoteTitleHindi": "जो सेवा आनंद के बिना की जाती है, वह न तो सेवक को और न ही सेवा प्राप्त करने वाले को मदद करती है।",
+    "author": "Mahatma Gandhi",
+    "category": "service",
+    "quoteOrigin": "India",
+    "tags": "service, joy",
+    "createdAt": "1940"
+  },
+  {
+    "QuoteId": 19,
+    "quoteTitle": "The world is the great gymnasium where we come to make ourselves strong.",
+    "quoteTitleHindi": "दुनिया एक महान व्यायामशाला है, जहाँ हम अपने आप को मजबूत बनाने के लिए आते हैं।",
+    "author": "Swami Vivekananda",
+    "category": "strength",
+    "quoteOrigin": "India",
+    "tags": "strength, life",
+    "createdAt": "1893"
+  },
+  {
+    "QuoteId": 20,
+    "quoteTitle": "Let your life lightly dance on the edges of time like dew on the tip of a leaf.",
+    "quoteTitleHindi": "तुम्हारा जीवन समय के किनारों पर हल्के से नाचता रहे, जैसे पत्ते के सिरे पर ओस।",
+    "author": "Rabindranath Tagore",
+    "category": "life",
+    "quoteOrigin": "India",
+    "tags": "life, lightness",
+    "createdAt": "1912"
+  },
+  {
+    "QuoteId": 21,
+    "quoteTitle": "In the joy of others lies our own.",
+    "quoteTitleHindi": "दूसरों की खुशी में हमारी अपनी खुशी निहित है।",
+    "author": "Pramukh Swami Maharaj",
+    "category": "happiness",
+    "quoteOrigin": "India",
+    "tags": "happiness, joy, others",
+    "createdAt": "1971"
+  },
+  {
+    "QuoteId": 22,
+    "quoteTitle": "True guQuoteIdance is like a small lamp in a dark forest. It doesn't show everything at once, but gives enough light for the next step to be safe.",
+    "quoteTitleHindi": "सच्चा मार्गदर्शन एक अंधकारमय जंगल में एक छोटे दीपक की तरह होता है। यह सब कुछ एक साथ नहीं दिखाता, परंतु अगले कदम को सुरक्षित रखने के लिए पर्याप्त प्रकाश देता है।",
+    "author": "Chanakya",
+    "category": "guQuoteIdance",
+    "quoteOrigin": "India",
+    "tags": "guQuoteIdance, wisdom",
+    "createdAt": "320 BC"
+  },
+  {
+    "QuoteId": 23,
+    "quoteTitle": "All that we are is the result of what we have thought.",
+    "quoteTitleHindi": "जो कुछ हम हैं, वह हमारे विचारों का परिणाम है।",
+    "author": "Buddha",
+    "category": "thoughts",
+    "quoteOrigin": "India",
+    "tags": "thoughts, self",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 24,
+    "quoteTitle": "The best way to find yourself is to lose yourself in the service of others.",
+    "quoteTitleHindi": "खुद को खोजने का सबसे अच्छा तरीका है कि दूसरों की सेवा में खुद को खो दें।",
+    "author": "Mahatma Gandhi",
+    "category": "service",
+    "quoteOrigin": "India",
+    "tags": "service, self-discovery",
+    "createdAt": "1931"
+  },
+  {
+    "QuoteId": 25,
+    "quoteTitle": "A gift is pure when it is given from the heart to the right person at the right time and at the right place, and when we expect nothing in return.",
+    "quoteTitleHindi": "उपहार तब शुद्ध होता है जब यह सही समय, सही स्थान और सही व्यक्ति को दिल से दिया जाता है, और बदले में कुछ भी उम्मीद न की जाए।",
+    "author": "Bhagavad Gita",
+    "category": "selflessness",
+    "quoteOrigin": "India",
+    "tags": "selflessness, giving",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 26,
+    "quoteTitle": "Do everything with a mind that lets go.",
+    "quoteTitleHindi": "हर काम एक ऐसे मन से करो जो जाने देना जानता है।",
+    "author": "Buddha",
+    "category": "mindfulness",
+    "quoteOrigin": "India",
+    "tags": "mindfulness, letting go",
+    "createdAt": "550 BC"
+  },
+  {
+    "QuoteId": 27,
+    "quoteTitle": "The journey of a thousand miles begins with one step.",
+    "quoteTitleHindi": "हजार मील की यात्रा एक कदम से शुरू होती है।",
+    "author": "Lao Tzu",
+    "category": "journey",
+    "quoteOrigin": "India",
+    "tags": "journey, steps",
+    "createdAt": "600 BC"
+  },
+  {
+    "QuoteId": 28,
+    "quoteTitle": "Injustice anywhere is a threat to justice everywhere.",
+    "quoteTitleHindi": "कहीं पर भी अन्याय, हर जगह न्याय के लिए खतरा है।",
+    "author": "Dr. B.R. Ambedkar",
+    "category": "justice",
+    "quoteOrigin": "India",
+    "tags": "justice, equality",
+    "createdAt": "1956"
+  },
+  {
+    "QuoteId": 29,
+    "quoteTitle": "The more we give away, the more is given to us.",
+    "quoteTitleHindi": "जितना हम देंगे, उतना ही हमें वापस मिलेगा।",
+    "author": "Sri Ramakrishna",
+    "category": "giving",
+    "quoteOrigin": "India",
+    "tags": "giving, abundance",
+    "createdAt": "1886"
+  },
+  {
+    "QuoteId": 30,
+    "quoteTitle": "Real happiness is not found in possessions and power, but in peace and contentment.",
+    "quoteTitleHindi": "सच्ची खुशी संपत्ति और शक्ति में नहीं, बल्कि शांति और संतोष में मिलती है।",
+    "author": "Swami Sivananda",
+    "category": "happiness",
+    "quoteOrigin": "India",
+    "tags": "happiness, peace",
+    "createdAt": "1930"
+  },
+  {
+    "QuoteId": 31,
+    "quoteTitle": "You must be the change you want to see in the world.",
+    "quoteTitleHindi": "तुम वही बदलाव बनो जो तुम दुनिया में देखना चाहते हो।",
+    "author": "Mahatma Gandhi",
+    "category": "change",
+    "quoteOrigin": "India",
+    "tags": "change, inspiration",
+    "createdAt": "1920"
+  },
+  {
+    "QuoteId": 32,
+    "quoteTitle": "Purity, patience, and perseverance are the three essentials to success.",
+    "quoteTitleHindi": "शुद्धता, धैर्य और दृढ़ता सफलता के तीन अनिवार्य तत्व हैं।",
+    "author": "Swami Vivekananda",
+    "category": "success",
+    "quoteOrigin": "India",
+    "tags": "success, perseverance",
+    "createdAt": "1893"
+  },
+  {
+    "QuoteId": 33,
+    "quoteTitle": "Peace comes from within. Do not seek it without.",
+    "quoteTitleHindi": "शांति भीतर से आती है। इसे बाहर मत ढूंढो।",
+    "author": "Buddha",
+    "category": "peace",
+    "quoteOrigin": "India",
+    "tags": "peace, inner peace",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 34,
+    "quoteTitle": "A person who is happy is not because everything is right in his life. He is happy because his attitude towards everything in his life is right.",
+    "quoteTitleHindi": "एक व्यक्ति इसलिए खुश नहीं होता क्योंकि उसकी जिंदगी में सब कुछ सही है। वह इसलिए खुश है क्योंकि उसके जीवन में हर चीज के प्रति उसका दृष्टिकोण सही है।",
+    "author": "Swami Vivekananda",
+    "category": "happiness",
+    "quoteOrigin": "India",
+    "tags": "happiness, attitude",
+    "createdAt": "1900"
+  },
+  {
+    "QuoteId": 35,
+    "quoteTitle": "A man’s own self is his friend, a man’s own self is his foe.",
+    "quoteTitleHindi": "मनुष्य का अपना ही आत्मा उसका मित्र है, और उसका अपना आत्मा उसका शत्रु है।",
+    "author": "Bhagavad Gita",
+    "category": "self",
+    "quoteOrigin": "India",
+    "tags": "self, friend, foe",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 36,
+    "quoteTitle": "When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds.",
+    "quoteTitleHindi": "जब आप किसी महान उद्देश्य से प्रेरित होते हैं, किसी असाधारण परियोजना से, तो आपके सभी विचार अपनी सीमा को तोड़ देते हैं।",
+    "author": "Patanjali",
+    "category": "inspiration",
+    "quoteOrigin": "India",
+    "tags": "inspiration, purpose",
+    "createdAt": "200 BC"
+  },
+  {
+    "QuoteId": 37,
+    "quoteTitle": "True happiness comes from the joy of deeds well done, the zest of creating things new.",
+    "quoteTitleHindi": "सच्ची खुशी अच्छे कर्मों के आनंद और नई चीजें बनाने की उमंग से आती है।",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "happiness",
+    "quoteOrigin": "India",
+    "tags": "happiness, joy",
+    "createdAt": "1943"
+  },
+  {
+    "QuoteId": 38,
+    "quoteTitle": "In the practice of tolerance, one’s enemy is the best teacher.",
+    "quoteTitleHindi": "सहनशीलता के अभ्यास में, शत्रु सबसे अच्छा शिक्षक है।",
+    "author": "Dalai Lama",
+    "category": "tolerance",
+    "quoteOrigin": "India",
+    "tags": "tolerance, enemy, teacher",
+    "createdAt": "1959"
+  },
+  {
+    "QuoteId": 39,
+    "quoteTitle": "Action is the foundational key to all success.",
+    "quoteTitleHindi": "कर्म ही सभी सफलताओं की आधारशिला है।",
+    "author": "Pablo Picasso",
+    "category": "success",
+    "quoteOrigin": "India",
+    "tags": "success, action",
+    "createdAt": "1931"
+  },
+  {
+    "QuoteId": 40,
+    "quoteTitle": "Fear is not real. It is a product of thoughts you create. Do not misunderstand me. Danger is very real. But fear is a choice.",
+    "quoteTitleHindi": "डर वास्तविक नहीं है। यह आपके बनाए हुए विचारों का उत्पाद है। मुझे गलत मत समझिए। खतरा वास्तविक है, लेकिन डर एक विकल्प है।",
+    "author": "Will Smith",
+    "category": "fear",
+    "quoteOrigin": "India",
+    "tags": "fear, choice",
+    "createdAt": "2013"
+  },
+  {
+    "QuoteId": 41,
+    "quoteTitle": "An ounce of patience is worth more than a ton of preaching.",
+    "quoteTitleHindi": "थोड़ा सा धैर्य प्रवचन के ढेर से अधिक मूल्यवान है।",
+    "author": "Mahatma Gandhi",
+    "category": "patience",
+    "quoteOrigin": "India",
+    "tags": "patience, wisdom",
+    "createdAt": "1920"
+  },
+  {
+    "QuoteId": 42,
+    "quoteTitle": "It is better to light a candle than curse the darkness.",
+    "quoteTitleHindi": "अंधकार को कोसने की अपेक्षा एक दीप जलाना बेहतर है।",
+    "author": "Chinese Proverb",
+    "category": "hope",
+    "quoteOrigin": "India",
+    "tags": "hope, action",
+    "createdAt": "Unknown"
+  },
+  {
+    "QuoteId": 43,
+    "quoteTitle": "Love is not what you say. Love is what you do.",
+    "quoteTitleHindi": "प्रेम वह नहीं है जो आप कहते हैं। प्रेम वह है जो आप करते हैं।",
+    "author": "Anonymous",
+    "category": "love",
+    "quoteOrigin": "India",
+    "tags": "love, actions",
+    "createdAt": "Unknown"
+  },
+  {
+    "QuoteId": 44,
+    "quoteTitle": "When the student is ready, the teacher will appear.",
+    "quoteTitleHindi": "जब छात्र तैयार होता है, तब शिक्षक प्रकट होता है।",
+    "author": "Buddhist Proverb",
+    "category": "learning",
+    "quoteOrigin": "India",
+    "tags": "learning, wisdom",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 45,
+    "quoteTitle": "The only true wisdom is in knowing you know nothing.",
+    "quoteTitleHindi": "एकमात्र सच्ची बुद्धिमत्ता यह है कि आप यह जानें कि आप कुछ भी नहीं जानते।",
+    "author": "Socrates",
+    "category": "wisdom",
+    "quoteOrigin": "India",
+    "tags": "wisdom, humility",
+    "createdAt": "399 BC"
+  },
+  {
+    "QuoteId": 46,
+    "quoteTitle": "You cannot shake hands with a clenched fist.",
+    "quoteTitleHindi": "मुट्ठी बांध कर हाथ नहीं मिलाया जा सकता।",
+    "author": "Indira Gandhi",
+    "category": "peace",
+    "quoteOrigin": "India",
+    "tags": "peace, collaboration",
+    "createdAt": "1972"
+  },
+  {
+    "QuoteId": 47,
+    "quoteTitle": "The best way to predict the future is to create it.",
+    "quoteTitleHindi": "भविष्य की भविष्यवाणी करने का सबसे अच्छा तरीका है इसे बनाना।",
+    "author": "Peter Drucker",
+    "category": "future",
+    "quoteOrigin": "India",
+    "tags": "future, creation",
+    "createdAt": "1973"
+  },
+  {
+    "QuoteId": 48,
+    "quoteTitle": "All power is within you; you can do anything and everything.",
+    "quoteTitleHindi": "सारी शक्ति तुम्हारे भीतर है; तुम कुछ भी कर सकते हो।",
+    "author": "Swami Vivekananda",
+    "category": "empowerment",
+    "quoteOrigin": "India",
+    "tags": "power, potential",
+    "createdAt": "1893"
+  },
+  {
+    "QuoteId": 49,
+    "quoteTitle": "Where there is love, there is life.",
+    "quoteTitleHindi": "जहाँ प्रेम है, वहाँ जीवन है।",
+    "author": "Mahatma Gandhi",
+    "category": "love",
+    "quoteOrigin": "India",
+    "tags": "love, life",
+    "createdAt": "1931"
+  },
+  {
+    "QuoteId": 50,
+    "quoteTitle": "You have the right to work, but never to the fruit of work.",
+    "quoteTitleHindi": "तुम्हें काम करने का अधिकार है, लेकिन उसके फलों पर नहीं।",
+    "author": "Bhagavad Gita",
+    "category": "work",
+    "quoteOrigin": "India",
+    "tags": "work, duty",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 51,
+    "quoteTitle": "In a gentle way, you can shake the world.",
+    "quoteTitleHindi": "एक कोमल तरीके से, आप दुनिया को हिला सकते हैं।",
+    "author": "Mahatma Gandhi",
+    "category": "influence",
+    "quoteOrigin": "India",
+    "tags": "influence, gentleness",
+    "createdAt": "1925"
+  },
+  {
+    "QuoteId": 52,
+    "quoteTitle": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "quoteTitleHindi": "खुशी तब होती है जब आप जो सोचते हैं, जो कहते हैं और जो करते हैं, वे एक सामंजस्य में होते हैं।",
+    "author": "Mahatma Gandhi",
+    "category": "happiness",
+    "quoteOrigin": "India",
+    "tags": "happiness, harmony",
+    "createdAt": "1930"
+  },
+  {
+    "QuoteId": 53,
+    "quoteTitle": "The mind is everything. What you think you become.",
+    "quoteTitleHindi": "मन ही सब कुछ है। आप जो सोचते हैं, वही बन जाते हैं।",
+    "author": "Buddha",
+    "category": "mind",
+    "quoteOrigin": "India",
+    "tags": "mind, thoughts",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 54,
+    "quoteTitle": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "quoteTitleHindi": "ऐसे जियो जैसे तुम कल मरने वाले हो। ऐसे सीखो जैसे तुम हमेशा के लिए जीने वाले हो।",
+    "author": "Mahatma Gandhi",
+    "category": "life",
+    "quoteOrigin": "India",
+    "tags": "life, learning",
+    "createdAt": "1928"
+  },
+  {
+    "QuoteId": 55,
+    "quoteTitle": "Silence is the best answer to someone who doesn’t value your words.",
+    "quoteTitleHindi": "मौन सबसे अच्छा उत्तर है उन लोगों के लिए जो आपके शब्दों की कद्र नहीं करते।",
+    "author": "Anonymous",
+    "category": "silence",
+    "quoteOrigin": "India",
+    "tags": "silence, wisdom",
+    "createdAt": "Unknown"
+  },
+  {
+    "QuoteId": 56,
+    "quoteTitle": "The wound is the place where the light enters you.",
+    "quoteTitleHindi": "घाव वही जगह है जहाँ से प्रकाश तुम्हारे भीतर प्रवेश करता है।",
+    "author": "Rumi",
+    "category": "healing",
+    "quoteOrigin": "India",
+    "tags": "healing, pain",
+    "createdAt": "1207"
+  },
+  {
+    "QuoteId": 57,
+    "quoteTitle": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+    "quoteTitleHindi": "कोई हमें नहीं बचा सकता सिवाय हमारे खुद के। न कोई कर सकता है और न ही कोई कर पाएगा। हमें स्वयं अपने मार्ग पर चलना होगा।",
+    "author": "Buddha",
+    "category": "self-reliance",
+    "quoteOrigin": "India",
+    "tags": "self-reliance, path",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 58,
+    "quoteTitle": "To conquer oneself is a greater victory than to conquer thousands in a battle.",
+    "quoteTitleHindi": "स्वयं को जीतना एक युद्ध में हजारों को जीतने से बड़ी विजय है।",
+    "author": "Buddha",
+    "category": "self-discipline",
+    "quoteOrigin": "India",
+    "tags": "self-discipline, victory",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 59,
+    "quoteTitle": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "quoteTitleHindi": "शक्ति शारीरिक क्षमता से नहीं आती, यह अदम्य इच्छाशक्ति से आती है।",
+    "author": "Mahatma Gandhi",
+    "category": "strength",
+    "quoteOrigin": "India",
+    "tags": "strength, willpower",
+    "createdAt": "1932"
+  },
+  {
+    "QuoteId": 60,
+    "quoteTitle": "Let us always meet each other with a smile, for the smile is the beginning of love.",
+    "quoteTitleHindi": "आइए हम हमेशा मुस्कान के साथ मिलें, क्योंकि मुस्कान प्रेम की शुरुआत है।",
+    "author": "Mother Teresa",
+    "category": "love",
+    "quoteOrigin": "India",
+    "tags": "love, smile",
+    "createdAt": "1965"
+  },
+  {
+    "QuoteId": 61,
+    "quoteTitle": "A life without love is like a tree without blossoms or fruit.",
+    "quoteTitleHindi": "प्रेम के बिना जीवन ऐसा है जैसे पेड़ बिना फूल और फल के।",
+    "author": "Kahlil Gibran",
+    "category": "love",
+    "quoteOrigin": "India",
+    "tags": "love, life",
+    "createdAt": "1923"
+  },
+  {
+    "QuoteId": 62,
+    "quoteTitle": "The smallest act of kindness is worth more than the greatest intention.",
+    "quoteTitleHindi": "दया का सबसे छोटा कार्य सबसे महान इरादे से अधिक मूल्यवान है।",
+    "author": "Anonymous",
+    "category": "kindness",
+    "quoteOrigin": "India",
+    "tags": "kindness, action",
+    "createdAt": "Unknown"
+  },
+  {
+    "QuoteId": 63,
+    "quoteTitle": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "quoteTitleHindi": "सफलता अंतिम नहीं है, असफलता घातक नहीं है: महत्वपूर्ण है जारी रखने का साहस।",
+    "author": "Winston Churchill",
+    "category": "success",
+    "quoteOrigin": "India",
+    "tags": "success, courage",
+    "createdAt": "1941"
+  },
+  {
+    "QuoteId": 64,
+    "quoteTitle": "When you focus on the good, the good gets better.",
+    "quoteTitleHindi": "जब आप अच्छाई पर ध्यान केंद्रित करते हैं, तो अच्छाई और बेहतर हो जाती है।",
+    "author": "Anonymous",
+    "category": "focus",
+    "quoteOrigin": "India",
+    "tags": "focus, positivity",
+    "createdAt": "Unknown"
+  },
+  {
+    "QuoteId": 65,
+    "quoteTitle": "We can never obtain peace in the outer world until we make peace with ourselves.",
+    "quoteTitleHindi": "हम तब तक बाहरी दुनिया में शांति नहीं पा सकते जब तक हम अपने भीतर शांति नहीं बना लेते।",
+    "author": "Dalai Lama",
+    "category": "peace",
+    "quoteOrigin": "India",
+    "tags": "peace, self",
+    "createdAt": "1989"
+  },
+  {
+    "QuoteId": 66,
+    "quoteTitle": "The journey of a thousand miles begins with one step.",
+    "quoteTitleHindi": "हजार मील की यात्रा एक कदम से शुरू होती है।",
+    "author": "Lao Tzu",
+    "category": "journey",
+    "quoteOrigin": "India",
+    "tags": "journey, first step",
+    "createdAt": "600 BC"
+  },
+  {
+    "QuoteId": 67,
+    "quoteTitle": "Forgiveness is the attribute of the strong.",
+    "quoteTitleHindi": "क्षमा मजबूत लोगों का गुण है।",
+    "author": "Mahatma Gandhi",
+    "category": "forgiveness",
+    "quoteOrigin": "India",
+    "tags": "forgiveness, strength",
+    "createdAt": "1929"
+  },
+  {
+    "QuoteId": 68,
+    "quoteTitle": "There is no charm equal to tenderness of heart.",
+    "quoteTitleHindi": "हृदय की कोमलता के समान कोई आकर्षण नहीं है।",
+    "author": "Jane Austen",
+    "category": "kindness",
+    "quoteOrigin": "India",
+    "tags": "kindness, tenderness",
+    "createdAt": "1813"
+  },
+  {
+    "QuoteId": 69,
+    "quoteTitle": "Life is really simple, but we insist on making it complicated.",
+    "quoteTitleHindi": "जीवन वास्तव में सरल है, लेकिन हम इसे जटिल बनाने पर जोर देते हैं।",
+    "author": "Confucius",
+    "category": "life",
+    "quoteOrigin": "India",
+    "tags": "life, simplicity",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 70,
+    "quoteTitle": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "quoteTitleHindi": "उस दुनिया में स्वयं बने रहना, जो आपको किसी और चीज में बदलने की कोशिश कर रही है, सबसे बड़ी उपलब्धि है।",
+    "author": "Ralph Waldo Emerson",
+    "category": "self",
+    "quoteOrigin": "India",
+    "tags": "self, accomplishment",
+    "createdAt": "1841"
+  },
+  {
+    "QuoteId": 71,
+    "quoteTitle": "Change your thoughts and you change your world.",
+    "quoteTitleHindi": "अपने विचारों को बदलो और आप अपनी दुनिया बदल सकते हो।",
+    "author": "Norman Vincent Peale",
+    "category": "thoughts",
+    "quoteOrigin": "India",
+    "tags": "thoughts, change",
+    "createdAt": "1952"
+  },
+  {
+    "QuoteId": 72,
+    "quoteTitle": "You must be the change you wish to see in the world.",
+    "quoteTitleHindi": "आपको वह बदलाव होना चाहिए जो आप दुनिया में देखना चाहते हैं।",
+    "author": "Mahatma Gandhi",
+    "category": "change",
+    "quoteOrigin": "India",
+    "tags": "change, world",
+    "createdAt": "1947"
+  },
+  {
+    "QuoteId": 73,
+    "quoteTitle": "Happiness depends upon ourselves.",
+    "quoteTitleHindi": "खुशी हम पर निर्भर करती है।",
+    "author": "Aristotle",
+    "category": "happiness",
+    "quoteOrigin": "India",
+    "tags": "happiness, self",
+    "createdAt": "350 BC"
+  },
+  {
+    "QuoteId": 74,
+    "quoteTitle": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "quoteTitleHindi": "हमारे पीछे और हमारे सामने जो कुछ भी है, वह हमारे भीतर जो है उसकी तुलना में छोटी बातें हैं।",
+    "author": "Ralph Waldo Emerson",
+    "category": "self",
+    "quoteOrigin": "India",
+    "tags": "self, potential",
+    "createdAt": "1850"
+  },
+  {
+    "QuoteId": 75,
+    "quoteTitle": "A man is but the product of his thoughts; what he thinks, he becomes.",
+    "quoteTitleHindi": "मनुष्य केवल अपने विचारों का उत्पाद है; जो वह सोचता है, वही बनता है।",
+    "author": "Mahatma Gandhi",
+    "category": "thoughts",
+    "quoteOrigin": "India",
+    "tags": "thoughts, becoming",
+    "createdAt": "1930"
+  },
+  {
+    "QuoteId": 76,
+    "quoteTitle": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "quoteTitleHindi": "जीवन में सबसे बड़ी महिमा कभी न गिरने में नहीं, बल्कि हर बार गिरने पर उठने में है।",
+    "author": "Nelson Mandela",
+    "category": "resilience",
+    "quoteOrigin": "India",
+    "tags": "resilience, glory",
+    "createdAt": "1994"
+  },
+  {
+    "QuoteId": 77,
+    "quoteTitle": "The only limit to our realization of tomorrow is our doubts of today.",
+    "quoteTitleHindi": "हमारे कल की प्राप्ति की एकमात्र सीमा हमारे आज के संदेह हैं।",
+    "author": "Franklin D. Roosevelt",
+    "category": "doubt",
+    "quoteOrigin": "India",
+    "tags": "doubt, realization",
+    "createdAt": "1945"
+  },
+  {
+    "QuoteId": 78,
+    "quoteTitle": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "quoteTitleHindi": "एक ऐसी दुनिया में जो आपको किसी और में बदलने की कोशिश करती रहती है, स्वयं बने रहना सबसे बड़ी उपलब्धि है।",
+    "author": "Ralph Waldo Emerson",
+    "category": "self",
+    "quoteOrigin": "India",
+    "tags": "self, authenticity",
+    "createdAt": "1840"
+  },
+  {
+    "QuoteId": 79,
+    "quoteTitle": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+    "quoteTitleHindi": "सफलता का कोई रहस्य नहीं है। यह तैयारी, कड़ी मेहनत और असफलता से सीखने का परिणाम है।",
+    "author": "Colin Powell",
+    "category": "success",
+    "quoteOrigin": "India",
+    "tags": "success, hard work",
+    "createdAt": "1995"
+  },
+  {
+    "QuoteId": 80,
+    "quoteTitle": "The only way to do great work is to love what you do.",
+    "quoteTitleHindi": "महान काम करने का एकमात्र तरीका है जो आप करते हैं उसे प्रेम करें।",
+    "author": "Steve Jobs",
+    "category": "work",
+    "quoteOrigin": "India",
+    "tags": "work, love",
+    "createdAt": "2005"
+  },
+  {
+    "QuoteId": 81,
+    "quoteTitle": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "quoteTitleHindi": "सफलता अंतिम नहीं है, असफलता घातक नहीं है: जो मायने रखता है वह है साहस के साथ चलते रहना।",
+    "author": "Winston Churchill",
+    "category": "success",
+    "quoteOrigin": "India",
+    "tags": "success, failure, courage",
+    "createdAt": "1941"
+  },
+  {
+    "QuoteId": 82,
+    "quoteTitle": "An eye for an eye only ends up making the whole world blind.",
+    "quoteTitleHindi": "आंख के बदले आंख पूरे संसार को अंधा बना देती है।",
+    "author": "Mahatma Gandhi",
+    "category": "peace",
+    "quoteOrigin": "India",
+    "tags": "peace, revenge",
+    "createdAt": "1930"
+  },
+  {
+    "QuoteId": 83,
+    "quoteTitle": "It is better to conquer yourself than to win a thousand battles.",
+    "quoteTitleHindi": "अपने आप पर विजय प्राप्त करना हजार लड़ाइयाँ जीतने से बेहतर है।",
+    "author": "Buddha",
+    "category": "self",
+    "quoteOrigin": "India",
+    "tags": "self, victory",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 84,
+    "quoteTitle": "In the mQuoteIddle of difficulty lies opportunity.",
+    "quoteTitleHindi": "कठिनाई के बीच में ही अवसर छिपा होता है।",
+    "author": "Albert Einstein",
+    "category": "opportunity",
+    "quoteOrigin": "India",
+    "tags": "opportunity, difficulty",
+    "createdAt": "1940"
+  },
+  {
+    "QuoteId": 85,
+    "quoteTitle": "The purpose of life is a life of purpose.",
+    "quoteTitleHindi": "जीवन का उद्देश्य एक उद्देश्यपूर्ण जीवन है।",
+    "author": "Robert Byrne",
+    "category": "purpose",
+    "quoteOrigin": "India",
+    "tags": "purpose, life",
+    "createdAt": "1960"
+  },
+  {
+    "QuoteId": 86,
+    "quoteTitle": "Not all those who wander are lost.",
+    "quoteTitleHindi": "सभी जो भटकते हैं वे खोए नहीं होते।",
+    "author": "J.R.R. Tolkien",
+    "category": "wander",
+    "quoteOrigin": "India",
+    "tags": "wander, exploration",
+    "createdAt": "1937"
+  },
+  {
+    "QuoteId": 87,
+    "quoteTitle": "A person who never made a mistake never tried anything new.",
+    "quoteTitleHindi": "जिसने कभी गलती नहीं की उसने कभी कुछ नया करने की कोशिश नहीं की।",
+    "author": "Albert Einstein",
+    "category": "mistakes",
+    "quoteOrigin": "India",
+    "tags": "mistakes, new",
+    "createdAt": "1930"
+  },
+  {
+    "QuoteId": 88,
+    "quoteTitle": "The best way to find yourself is to lose yourself in the service of others.",
+    "quoteTitleHindi": "अपने आप को पाने का सबसे अच्छा तरीका है दूसरों की सेवा में अपने आप को खो देना।",
+    "author": "Mahatma Gandhi",
+    "category": "service",
+    "quoteOrigin": "India",
+    "tags": "service, self-discovery",
+    "createdAt": "1920"
+  },
+  {
+    "QuoteId": 89,
+    "quoteTitle": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "quoteTitleHindi": "जहां रास्ता हो वहां मत जाओ, बल्कि जहां कोई रास्ता न हो वहां जाओ और एक निशान छोड़ दो।",
+    "author": "Ralph Waldo Emerson",
+    "category": "courage",
+    "quoteOrigin": "India",
+    "tags": "courage, path",
+    "createdAt": "1840"
+  },
+  {
+    "QuoteId": 90,
+    "quoteTitle": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "quoteTitleHindi": "हमारी सबसे बड़ी महिमा कभी न गिरने में नहीं है, बल्कि हर बार गिरकर उठने में है।",
+    "author": "Confucius",
+    "category": "resilience",
+    "quoteOrigin": "India",
+    "tags": "resilience, falling",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 91,
+    "quoteTitle": "Simplicity is the ultimate sophistication.",
+    "quoteTitleHindi": "सरलता ही परम परिष्कार है।",
+    "author": "Leonardo da Vinci",
+    "category": "simplicity",
+    "quoteOrigin": "India",
+    "tags": "simplicity, sophistication",
+    "createdAt": "1500"
+  },
+  {
+    "QuoteId": 92,
+    "quoteTitle": "Happiness is not something ready made. It comes from your own actions.",
+    "quoteTitleHindi": "खुशी कोई तैयार चीज़ नहीं है। यह आपके अपने कर्मों से आती है।",
+    "author": "Dalai Lama",
+    "category": "happiness",
+    "quoteOrigin": "India",
+    "tags": "happiness, actions",
+    "createdAt": "1990"
+  },
+  {
+    "QuoteId": 93,
+    "quoteTitle": "He who has a why to live can bear almost any how.",
+    "quoteTitleHindi": "जिसके पास जीने का कारण है, वह लगभग किसी भी तरह से सहन कर सकता है।",
+    "author": "Friedrich Nietzsche",
+    "category": "purpose",
+    "quoteOrigin": "India",
+    "tags": "purpose, resilience",
+    "createdAt": "1880"
+  },
+  {
+    "QuoteId": 94,
+    "quoteTitle": "The mind is everything. What you think you become.",
+    "quoteTitleHindi": "मन ही सब कुछ है। जो तुम सोचते हो वही तुम बन जाते हो।",
+    "author": "Buddha",
+    "category": "mind",
+    "quoteOrigin": "India",
+    "tags": "mind, becoming",
+    "createdAt": "500 BC"
+  },
+  {
+    "QuoteId": 95,
+    "quoteTitle": "The only true wisdom is in knowing you know nothing.",
+    "quoteTitleHindi": "सच्ची बुद्धिमानी यह है कि आपको यह एहसास हो कि आप कुछ नहीं जानते।",
+    "author": "Socrates",
+    "category": "wisdom",
+    "quoteOrigin": "India",
+    "tags": "wisdom, knowledge",
+    "createdAt": "400 BC"
+  },
+  {
+    "QuoteId": 96,
+    "quoteTitle": "Peace begins with a smile.",
+    "quoteTitleHindi": "शांति एक मुस्कान से शुरू होती है।",
+    "author": "Mother Teresa",
+    "category": "peace",
+    "quoteOrigin": "India",
+    "tags": "peace, smile",
+    "createdAt": "1970"
+  },
+  {
+    "QuoteId": 97,
+    "quoteTitle": "The greatest wealth is to live content with little.",
+    "quoteTitleHindi": "सबसे बड़ी दौलत है थोड़े में संतुष्ट रहना।",
+    "author": "Plato",
+    "category": "contentment",
+    "quoteOrigin": "India",
+    "tags": "wealth, contentment",
+    "createdAt": "350 BC"
+  },
+  {
+    "QuoteId": 98,
+    "quoteTitle": "The only thing we have to fear is fear itself.",
+    "quoteTitleHindi": "हमें केवल भय से ही डरने की आवश्यकता है।",
+    "author": "Franklin D. Roosevelt",
+    "category": "fear",
+    "quoteOrigin": "India",
+    "tags": "fear, courage",
+    "createdAt": "1933"
+  },
+  {
+    "QuoteId": 99,
+    "quoteTitle": "The unexamined life is not worth living.",
+    "quoteTitleHindi": "अविवेचित जीवन जीने योग्य नहीं है।",
+    "author": "Socrates",
+    "category": "life",
+    "quoteOrigin": "India",
+    "tags": "life, self-examination",
+    "createdAt": "400 BC"
+  },
+  {
+    "QuoteId": 100,
+    "quoteTitle": "When the student is ready, the teacher will appear.",
+    "quoteTitleHindi": "जब छात्र तैयार होता है, तो शिक्षक प्रकट होता है।",
+    "author": "Buddhist Proverb",
+    "category": "learning",
+    "quoteOrigin": "India",
+    "tags": "learning, teacher",
+    "createdAt": "500 BC"
+  },
+  {
+    "quoteTitle": "Let my country awake.",
+    "quoteTitleHindi": "मेरे देश को जागने दो।",
+    "author": "Rabindranath Tagore",
+    "category": "patriotism",
+    "quoteOrigin": "India",
+    "tags": "patriotism, awakening",
+    "createdAt": "1912",
+    "QuoteId": 101
+  },
+  {
+    "quoteTitle": "Let my country awake.",
+    "quoteTitleHindi": "मेरे देश को जागने दो।",
+    "author": "Rabindranath Tagore",
+    "category": "patriotism",
+    "quoteOrigin": "India",
+    "tags": "patriotism, awakening",
+    "createdAt": "1912",
+    "QuoteId": 102
+  }
+]
